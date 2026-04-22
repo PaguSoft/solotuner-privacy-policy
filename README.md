@@ -3,7 +3,7 @@
 Publicly accessible privacy policy for the **SoloTuner** mobile app (Google Play).
 
 - **Repository:** [github.com/Pasquale-Guglielmi/solotuner-privacy-policy](https://github.com/Pasquale-Guglielmi/solotuner-privacy-policy)
-- **Policy document:** [index.html](index.html) (mirror of the main SoloTuner repo: `docs/legal/privacy-policy/index.html`).
+- **Policy document:** [index.html](index.html).
 
 **GitHub Pages:** in the repo settings, enable Pages from the **`main`** branch, **`/` (root)**. The live policy URL will be:
 
