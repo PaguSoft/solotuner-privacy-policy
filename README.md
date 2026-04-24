@@ -1,6 +1,6 @@
 # SoloTuner — Privacy policy
 
-Publicly accessible privacy policy for the **SoloTuner** mobile app (Google Play), published by **PaguSoft**.
+Publicly accessible privacy policy for the **SoloTuner** mobile app (Google Play and optional direct/beta installs), published by **PaguSoft**.
 
 - **Repository:** [github.com/PaguSoft/solotuner-privacy-policy](https://github.com/PaguSoft/solotuner-privacy-policy)
 - **Policy document:** [index.html](index.html)
