@@ -1,0 +1,12 @@
+---
+description: Never push to remote without explicit user approval
+alwaysApply: true
+---
+
+# No automatic git push
+
+NEVER run `git push` autonomously in this repository.
+
+Always commit locally as needed, but only push to remote when the user explicitly says so (e.g. "pusha", "push", "pusha su remote", "fai il push").
+
+If you have staged and committed changes that still need to be pushed, inform the user at the end of your response and wait for explicit instruction before pushing.
